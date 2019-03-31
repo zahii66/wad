@@ -1,0 +1,8 @@
+
+h1:hover{
+    border-radius: 20px;
+    box-shadow: 3px 5px 9px 2px black;
+    border-width: 6px;
+    border-color: rgba(124, 110, 170, 0.4);
+    cursor: pointer;
+}
